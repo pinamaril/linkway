@@ -1,0 +1,14 @@
+[
+	{
+		"key" : "social",
+		"direct" : "https://joinmastodon.org/"
+	},
+	{
+		"key" : "search",
+		"direct" : "https://duckduckgo.com/"
+	},
+	{
+		"key" : "koding",
+		"direct" : "https://sekolahkoding.com/"
+	}
+]
